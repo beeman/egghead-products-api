@@ -1,4 +1,5 @@
 module.exports = [{
+  id: 'AD_C80_RS_RED',
   name: 'Adidas Campus 80s - Red',
   sku: 'AD_C80_RS_RED',
   description: 'Adidas Campus 80s Primeknit Light Maroon/Running Shoes',
@@ -6,20 +7,23 @@ module.exports = [{
   categoryId: 'shoes',
   price: '59.99'
 }, {
+  id: 'AD_C80_RS_BLUE',
   name: 'Adidas Campus 80s - Blue',
-  sku: 'AD_C80_RS_RED',
+  sku: 'AD_C80_RS_BLUE',
   description: 'Adidas Campus 80s Primeknit Light Maroon/Running Shoes',
   image: 'product_adidas_blue.jpg',
   categoryId: 'shoes',
   price: '59.99'
 }, {
+  id: 'AD_C80_RS_SILVER',
   name: 'Adidas Campus 80s - Silver',
-  sku: 'AD_C80_RS_RED',
+  sku: 'AD_C80_RS_SILVER',
   description: 'Adidas Campus 80s Primeknit Light Maroon/Running Shoes',
   image: 'product_adidas_silver.jpg',
   categoryId: 'shoes',
   price: '59.99'
 }, {
+  id: 'NK_FRC_RS_FRESH',
   name: 'Nike Floral Roshe - Fresh',
   sku: 'NK_FRC_RS_FRESH',
   description: 'Each Rosh Run is personalized and exclusive, handmade in our workshop Custom. Run Your Rosh creations born from the hand of an artist specialized in sneakers, more than 10 years of experience.',
@@ -27,6 +31,7 @@ module.exports = [{
   categoryId: 'shoes',
   price: '79.99'
 }, {
+  id: 'NK_FRC_RS_NATURAL',
   name: 'Nike Floral Roshe - Natural',
   sku: 'NK_FRC_RS_NATURAL',
   description: 'Each Rosh Run is personalized and exclusive, handmade in our workshop Custom. Run Your Rosh creations born from the hand of an artist specialized in sneakers, more than 10 years of experience.',
@@ -34,6 +39,7 @@ module.exports = [{
   categoryId: 'shoes',
   price: '79.99'
 }, {
+  id: 'LV_511_JN',
   name: 'Levi\'s 511 Jeans',
   sku: 'LV_511_JN',
   description: 'Between a skinny and straight fit, our 511&trade; slim fit jeans are cut close without being too restricting. Slim throughout the thigh and leg opening for a long and lean look.',
@@ -41,6 +47,7 @@ module.exports = [{
   categoryId: 'clothing',
   price: '79.99',
 }, {
+  id: 'WM_OVR_TS',
   name: 'Oversized Women T-Shirt',
   sku: 'WM_OVR_TS',
   description: 'This oversized women t-Shirt needs minimum ironing. It is a great product at a great value!',
@@ -48,6 +55,7 @@ module.exports = [{
   categoryId: 'clothing',
   price: '19.95',
 }, {
+  id: 'CS_TSHIRT',
   name: 'Custom T-Shirt',
   sku: 'CS_TSHIRT',
   description: 'Comfort comes in all shapes and forms, yet this tee out does it all. Rising above the rest, our classic cotton crew provides the simple practicality you need to make it through the day. Tag-free, relaxed fit wears well under dress shirts or stands alone in laid-back style. Reinforced collar and lightweight feel give way to long-lasting shape and breathability. One less thing to worry about, rely on this tee to provide comfort and ease with every wear.',
@@ -55,6 +63,7 @@ module.exports = [{
   categoryId: 'clothing',
   price: '29.95',
 }, {
+  id: 'NK_TLS_RS',
   name: 'Nike Tailwind Running Shirt',
   sku: 'NK_TLS_RS',
   description: 'Boost your adrenaline with the Nike� Women\'s Tailwind Running Shirt. The lightweight, slouchy fit is great for layering, and moisture-wicking fabrics keep you feeling at your best. This tee has a notched hem for an enhanced range of motion, while flat seams with reinforcement tape lessen discomfort and irritation over longer distances. Put your keys and card in the side zip pocket and take off in your Nike� running t-shirt.',
@@ -62,6 +71,7 @@ module.exports = [{
   categoryId: 'clothing',
   price: '24.99',
 }, {
+  id: 'RH_CHK_BL',
   name: 'Reversible Check Belt',
   sku: 'RH_CHK_BL',
   description: 'Reversible belt in Horseferry check with smooth leather trim',
@@ -69,6 +79,7 @@ module.exports = [{
   categoryId: 'accessories',
   price: '19.99',
 }, {
+  id: 'OB_HAT_PR',
   name: 'Obey Propaganda Hat',
   sku: 'OB_HAT_PR',
   description: 'Printed poplin 5 panel camp hat with debossed leather patch and web closure',
@@ -76,6 +87,7 @@ module.exports = [{
   categoryId: 'accessories',
   price: '49.99',
 }, {
+  id: 'RB_AVR_SG',
   name: 'Ray Ban Aviator Sunglasses',
   sku: 'RB_AVR_SG',
   description: 'Aviator sunglasses are one of the first widely popularized styles of modern day sunwear.',

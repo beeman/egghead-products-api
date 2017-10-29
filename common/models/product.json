@@ -3,9 +3,16 @@
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
-    "validateUpsert": true
+    "validateUpsert": true,
+    "idInjection": true,
+    "forceId": false
   },
   "properties": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "id": true
+    },
     "name": {
       "type": "string",
       "required": true
